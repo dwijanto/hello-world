@@ -1,2 +1,6 @@
 # hello-world
-hello world is my test repository 
+hello there!
+
+Your buddy is here. practicing how to use GitHub. bye now!
+
+
